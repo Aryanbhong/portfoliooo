@@ -130,6 +130,7 @@ export const profile = {
   bio: "Full-stack developer building scalable web apps | MERN • PostgreSQL • Cloud • Cybersecurity • AI",
   location: "India",
   website: "",
+  email: "aryanbhong18@gmail.com",
   github: "https://github.com/AryanBhong",
   followers: 0,
   following: 0,
@@ -160,6 +161,8 @@ export const experiences = [
   },
 ];
 
+
+
 export const repositories = [
   {
     id: 1,
@@ -178,6 +181,7 @@ export const repositories = [
       "jwt",
       "razorpay",
     ],
+    liveUrl: "https://edutrail-2.onrender.com/",
     updated: "recently",
   },
 
@@ -199,6 +203,7 @@ export const repositories = [
       "zustand",
       "cloudinary",
     ],
+    liveUrl: "https://milescloser-14.onrender.com/",
     updated: "recently",
   },
 
@@ -219,6 +224,7 @@ export const repositories = [
       "prisma",
       "backend",
     ],
+    liveUrl: "https://smartnotes-r3ac.onrender.com/",
     updated: "recently",
   },
 
@@ -237,6 +243,7 @@ export const repositories = [
       "api",
       "frontend",
     ],
+    liveUrl: "https://edutrail-2.onrender.com/",
     updated: "recently",
   },
 ];

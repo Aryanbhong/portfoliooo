@@ -281,9 +281,9 @@ const tabs = [
     icon: FolderKanban,
   },
   {
-    id: "packages",
-    label: "Packages",
-    path: "/packages",
+    id: "experience",
+    label: "experience",
+    path: "/experience",
     icon: Box,
   },
 ];
